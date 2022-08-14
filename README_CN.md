@@ -1,5 +1,5 @@
-# aspectgo
-> `aspectgo` 是在 `Golang` 中关于面向切面编程(`AOP`)的自定义规范项目
+# aspect 切面设计规范
+> `aspect` 是一个在 `Golang` 中面向切面编程(`AOP`)的设计规范定义项目
 
 - `Advice`
 - `Interceptr`
